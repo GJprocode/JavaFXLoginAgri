@@ -11,5 +11,5 @@
 #### Password: Mysql (Created when you install it).
 
 ### C) Two test files to test your jdbc and Mysql connection
-#### Follow this youtube vid first and test without maven in seperate project, excatly, as is with latest drivers and it should work. 
+#### Follow this youtube vid first, https://www.youtube.com/watch?v=e8g9eNnFpHQ ,  and test without maven in seperate project, exactly, as is with latest drivers and it should work. 
 #### Maven makes your project struture a little different with some few tweaks. 
