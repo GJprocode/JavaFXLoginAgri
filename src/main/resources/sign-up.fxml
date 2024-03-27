@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<HBox prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="harmonyagrisolutions.demosqljdbc.SignUpController">
+   <AnchorPane prefHeight="400.0" prefWidth="262.0" style="-fx-background-color: #90EE90;">
+      <ImageView fitHeight="167.0" fitWidth="261.0" pickOnBounds="true" preserveRatio="true">
+         <Image url="@businesscard.png" />
+      </ImageView>
+   </AnchorPane>
+   <AnchorPane prefHeight="400.0" prefWidth="341.0">
+      <Label layoutX="29.0" layoutY="100.0" prefHeight="17.0" prefWidth="93.0" text="Username">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tf_username" layoutX="117.0" layoutY="96.0" />
+      <PasswordField  fx:id="tf_password" layoutX="117.0" layoutY="125.0" />
+      <Label layoutX="29.0" layoutY="129.0" prefHeight="17.0" prefWidth="93.0" text="Password">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_signup" layoutX="116.0" layoutY="247.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="149.0" style="-fx-background-color: #90EE90; -fx-cursor: hand;" text="Signup">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+      <Label layoutX="114.0" layoutY="307.0" prefHeight="17.0" prefWidth="93.0" text="Already a user?">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_login" layoutX="197.0" layoutY="303.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="73.0" style="-fx-background-color: transparent; -fx-cursor: hand;" text="Log in!" textFill="#4e1bdb">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+      <RadioButton fx:id="rb_harmony" layoutX="117.0" layoutY="191.0" mnemonicParsing="false" text="HarmonyAgriSolutions" />
+      <RadioButton fx:id="rb_harmonyV2" layoutX="117.0" layoutY="218.0" mnemonicParsing="false" text="HarmonyAgriSolutionsv2" />
+      <Label layoutX="114.0" layoutY="164.0" prefHeight="17.0" prefWidth="169.0" text="Your favourite Agri app">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+   </AnchorPane>
+</HBox>

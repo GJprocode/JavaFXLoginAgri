@@ -1,0 +1,10 @@
+Parent root = FXMLLoader.load(getClass().getResource("second.fxml"));
+to
+
+Parent root = FXMLLoader.load(Main.class.getClassLoader().getResource("second.fxml"))
+
+Parent root = FXMLLoader.load(getClass().getResource("second.fxml"));
+to
+
+Parent root = FXMLLoader.load(Main.class.getClassLoader().getResource("second.fxml"));
+Working good now, i don't know why i must use references to Main class. Before adding maven framework all was good.
