@@ -23,6 +23,8 @@
 #### Parent root = FXMLLoader.load(Main.class.getClassLoader().getResource("second.fxml"))
 #### Add Main class for Maven framework. 
 
+#### pics of litte app and getting around java and mysql
+
 ![screenshot](welcome.png)
 ![screenshot](signup.png)
 ![screenshot](login.png)
