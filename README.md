@@ -17,4 +17,8 @@
 
 #### other usefull vids to fix Fix Error: JavaFX runtime components are missing, and are required to run this application
 #### https://www.youtube.com/watch?v=hS_6ek9rTco
-#### notes: include
+#### notes: include: 
+#### Parent root = FXMLLoader.load(getClass().getResource("second.fxml"));
+#### VS
+#### Parent root = FXMLLoader.load(Main.class.getClassLoader().getResource("second.fxml"))
+#### Add Main class for Maven framework. 
