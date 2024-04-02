@@ -11,8 +11,8 @@
 #### Username: Mysql (Created when you install it).
 #### Password: Mysql (Created when you install it).
 
-### C) Two test files to test your jdbc and Mysql connection
-#### Follow this youtube vid first, https://www.youtube.com/watch?v=e8g9eNnFpHQ ,  and test without maven in seperate project, exactly, as is with latest drivers and it should work. 
+### C) Two test files included, to test your jdbc and Mysql connection
+#### Follow this youtube vid first, https://www.youtube.com/watch?v=e8g9eNnFpHQ , and test without maven in seperate project, exactly, as is with latest drivers and it should work. Rerun with Maven and make that connection listen. 
 #### Maven makes your project struture a little different with some few tweaks. 
 
 #### other usefull vids to fix Fix Error: JavaFX runtime components are missing, and are required to run this application
