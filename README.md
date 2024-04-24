@@ -7,12 +7,14 @@
 #### 2. Setup Mysql on your pc. Watch this you tube vid: https://www.youtube.com/watch?v=OM4aZJW_Ojs&t=321s.
 
 ### B) Use your own SQL private credentials in DBUtils.java class. 
-#### URL: Mysql workbench schema jdbc:mysql://localhost:3306/schema-name". 
-#### Username: Mysql (Created when you install it).
-#### Password: Mysql (Created when you install it).
+#### URL: Mysql workbench schema jdbc:mysql://localhost:3306/schema-name". schema name that you created in mySQLworkbench
+#### Username: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
+#### Password: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
 
 ### C) Two test files included, to test your jdbc and Mysql connection
-#### Follow this youtube vid first, https://www.youtube.com/watch?v=e8g9eNnFpHQ , and test without maven in seperate project, exactly, as is with latest drivers and it should work. Rerun with Maven and make that connection listen. 
+#### Username: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
+#### Password: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
+#### Follow this youtube vid first, https://www.youtube.com/watch?v=e8g9eNnFpHQ , and test without maven in seperate project, exactly, as is with latest drivers and it should work. Rerun with Maven and make that connection listen.  
 #### Maven makes your project struture a little different with some few tweaks. 
 
 #### other usefull vids to fix Fix Error: JavaFX runtime components are missing, and are required to run this application
