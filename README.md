@@ -14,7 +14,7 @@
 #### Username: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
 #### Password: Mysql (Created when you install it). 
 #### Follow this youtube vid first, https://www.youtube.com/watch?v=e8g9eNnFpHQ , and test without maven in seperate project, exactly, as is with latest drivers and it should work. Rerun with Maven and make that connection listen.  
-#### Maven makes your project struture a little different with some few tweaks. 
+#### Maven makes your project structure a little different with some few tweaks. 
 
 #### other usefull vids to fix Fix Error: JavaFX runtime components are missing, and are required to run this application
 #### https://www.youtube.com/watch?v=hS_6ek9rTco
