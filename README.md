@@ -10,7 +10,7 @@
 #### URL: Mysql workbench schema jdbc:mysql://localhost:3306/schema-name". schema name that you created in mySQLworkbench
 #### Username: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
 #### Password: Mysql (Created when you install it). 
-#### IFR you wnat, best prcatice set up .env instead of hardcode any key or sensitive data in you project, include in .gitignore *.env
+#### You should, best practice, set up .env instead of hardcode any key or sensitive data in your project, include it in .gitignore *.env
 ### C) Two test files included, to test your jdbc and Mysql connection
 #### Username: Mysql (Created when you install it). or ManageServerConnection in mySQLworkbench username as per configuration
 #### Password: Mysql (Created when you install it). 
