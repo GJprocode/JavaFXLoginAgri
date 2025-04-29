@@ -27,7 +27,7 @@
 
 #### D) Code along: Skip it and you will punish yourself for whats to come. https://www.youtube.com/watch?v=ltX5AtW9v30
 
-#### E) Reverse engineer EER, https://youtu.be/tEhGIYN4vic?si=jnDZQQEzoZMjRY0H
+#### E) Reverse engineer EER, make a dynamic diagram of your schema and tables, https://youtu.be/tEhGIYN4vic?si=jnDZQQEzoZMjRY0H
 
 #### pics of litte app and getting around java and mysql
 
