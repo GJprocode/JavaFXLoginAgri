@@ -29,7 +29,7 @@
 
 #### E) Reverse engineer EER, make a dynamic diagram of your schema and tables, https://youtu.be/tEhGIYN4vic?si=jnDZQQEzoZMjRY0H
 
-#### pics of litte app and getting around java and mysql
+#### pics of client side GUI and getting around java and mysql
 
 ![screenshot](welcome.png)
 ![screenshot](signup.png)
